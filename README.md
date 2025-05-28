@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ShubhamSarda">
+<a href="https://github.com/praveeneswarM">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=praveeneswarM&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=praveeneswarM&layout=compact&langs_count=8&theme=buefy"/>
 </a>
